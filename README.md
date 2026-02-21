@@ -1,16 +1,37 @@
-## Hi there 👋
+# I'm Diva — Full Stack Dev. 🕷️
 
-<!--
-**DivaDIP/DivaDIP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Built with Laravel. Powered by ambition."
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fields I Command
+
+- Backend Development (Laravel, PHP, MySQL)
+- Frontend (HTML, CSS, JavaScript)
+- System Design
+- Writing & Creative Expression
+
+---
+
+## 🧠 What I Believe
+
+> If the code doesn’t solve a problem, it's not complete.  
+> Clean architecture is louder than messy features.
+
+---
+
+## 🚀 Featured Personal Projects
+
+| Name | Purpose | Power |
+|------|---------|--------|
+| POS System | Point of Sale web app | Fast and scalable |
+| Notes App | Simple productivity tool | Minimalist UI |
+| Portfolio | Personal branding website | Elegant & responsive |
+
+---
+
+## 🎯 Current Focus
+
+- Improving backend architecture
+- Learning advanced JavaScript
+- Building production-ready apps
