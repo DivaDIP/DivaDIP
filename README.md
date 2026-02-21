@@ -8,8 +8,7 @@
 
 - Backend Development (Laravel, PHP, MySQL)
 - Frontend (HTML, CSS, JavaScript)
-- System Design
-- Writing & Creative Expression
+- UI Design
 
 ---
 
