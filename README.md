@@ -1,5 +1,4 @@
-## Hi There👋🏻
-# I'm Hana Anladiva Suhandi
+# Hello Peeps👋🏻, I'm Hana Anladiva Suhandi
 
 ---
 
