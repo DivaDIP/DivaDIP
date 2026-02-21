@@ -4,12 +4,12 @@
 
 - Backend Development (Laravel, PHP, MySQL)
 - Frontend (HTML, CSS, JavaScript)
-- UI Design
+- Mobile Development (Dart)
 ---
 ## 🧠 What I Believe
 
-> If the code doesn’t solve a problem, it's not complete.  
-> Clean architecture is louder than messy features.
+If the code doesn’t solve a problem, it's not complete.  
+Clean architecture is louder than messy features.
 ---
 ## 🎯 Current Focus
 
